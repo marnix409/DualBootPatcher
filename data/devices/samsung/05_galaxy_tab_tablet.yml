@@ -613,7 +613,7 @@
     theme: portrait_hdpi
     
 - name: Samsung Galaxy Tab 3 V (Wifi/3G)
-  id: goyavewifixx
+  id: goyave
   codenames:
     # Wifi variant
     - goyavewifi
