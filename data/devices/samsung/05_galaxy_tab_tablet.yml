@@ -622,7 +622,6 @@
     # 3G variant
     - goyave3g
     - SM-T116
-    - goyave
   architecture: armeabi-v7a
 
   block_devs:
