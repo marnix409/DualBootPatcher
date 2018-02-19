@@ -657,5 +657,5 @@
     max_brightness: 255
     default_brightness: 162
     pixel_format: RGBX_8888
-    theme: portrait_hdpi    
+    theme: landscape_mdpi    
     
