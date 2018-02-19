@@ -653,7 +653,7 @@
       - TW_HAS_DOWNLOAD_MODE
     graphics_backends:
       - fbdev
-    brightness_path: /sys/devices/gen-panel-backlight.33/backlight/panel/brightness
+    brightness_path: /sys/devices/gen-panel-backlight.32/backlight/panel/brightness
     max_brightness: 255
     default_brightness: 162
     pixel_format: RGBX_8888
