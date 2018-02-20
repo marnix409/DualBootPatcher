@@ -646,12 +646,10 @@
       - /dev/block/platform/sprd-sdhci.3/by-name/MODEM
       - /dev/block/platform/sprd-sdhci.3/by-name/MODEM2
 
-
   boot_ui:
     supported: true
     flags:
       - TW_HAS_DOWNLOAD_MODE
-      - TW_THEME := landscape_mdpi
     graphics_backends:
       - fbdev
     brightness_path: /sys/devices/gen-panel-backlight.32/backlight/panel/brightness
